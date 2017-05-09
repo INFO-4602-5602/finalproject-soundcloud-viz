@@ -1,0 +1,86 @@
+{
+ "name": "Music",
+ "children": [
+  {
+   "name": "Bad and Boujee",
+   "children": [
+    {
+     "name": "Hip-hop & Rap",
+     "children": [
+      {"name": "Bad and Boujee (Feat. Lil Uzi Vert) [Prod. By Metro Boomin]", "size": 1929046},
+      {"name": "Migos - Bad And Boujee (Devvon Terrell Remix)", "size": 4255},
+      {"name": "Sik World - Bad And Boujee (Remix)", "size": 1133},
+      {"name": "MergeEdge", "size": 2170}
+     ]
+    },
+    {
+     "name": "Trap",
+     "children": [
+      {"name": "Migos - Bad and Boujee (Zaitex Remix)", "size": 4160},
+      {"name": "Bad and Boujee (Elaksi Remix)", "size": 3649},
+      {"name": "Bad And Boujee (Myth Syzer Remix)", "size": 2170},
+      {"name": "Bad and Boujee (Sear Cabe remix)", "size": 1232}
+     ]
+    },
+    {
+     "name": "Afro",
+     "children": [
+      {"name": "Migos - Bad and Boujee (SHINE X DEAN AFRO REMIX)[FREE DOWNLOAD] SUPPORTED BY DIPLO & APE DRUMS", "size": 7285}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Twenty One Pilots - Heathens",
+   "children": [
+    {"name": "twenty one pilots - Heathens (Hillbom Remix)", "size": 746},
+    {"name": "Twenty One Pilots - Heathens (Regard & Drop G Remix)", "size": 345},
+    {
+     "name": "Electronic",
+     "children": [
+      {"name": "Twenty One Pilots  - Heathens (Jack Bader Remix)", "size": 13},
+      {"name": "21 Pilots Heathens - Remix", "size": 12},
+      {"name": "Twenty One Pilots - Heathens  ( REMIX VERSION )", "size": 3},
+      {"name": "Heathens (MarX Remix) - Twenty One Pilots", "size": 21}
+     ]
+    },
+    {"name": "We Are Heathens (Remix Twenty One Pilots)", "size": 3},
+    {"name": "Twenty One Pilots - Heathens (Wolf Player Remix) FREE DOWNLOAD", "size": 21},
+    {"name": "We Rabbitz Feat. Future Sunsets - Heathens (Twenty One Pilots Remix Cover)[FREE DOWNLOAD]", "size": 695},
+    {"name": "Twenty One Pilots - Heathens (ALCIA JOSE Remix)", "size": 297},
+    {"name": "Twenty One Pilots - Heathens (Gold Top Remix)", "size": 166}
+   ]
+  },
+  {
+   "name": "Justin Bieber - Hotline Bling <Remix>",
+   "children": [
+    {
+     "name": "R&B",
+     "children": [
+      {"name": "Hotline Bling - James Hype Remix", "size": 1507},
+      {"name": "VILLETTE - Hotline Bling Remix (Prod. Rory Noble)", "size": 1658},
+      {"name": "Hotline Bling/How About Now (Remix of a Remix)", "size": 1431},
+      {"name": "House Party", "size": 2002},
+      {"name": "Hotline Bling Feat. Jencarlos (Vein Spanish Remix)", "size": 404}
+     ]
+    },
+    {"name": "Hotline bling (Kehlani x Charlie Puth cover)Zackal Remix'", "size": 31},
+    {"name": "Drake  - Hotline Bling (Ookay VIP Remix) played by Afrojack ULTRA", "size": 61},
+    {"name": "DataSet", "size": 43},
+    {"name": "Chino - Hotline Bling (Helgeland 8-bit squad Remix)", "size": 3331},
+    {"name": "Hotline Bling (im_pakt remix)", "size": 138},
+    {"name": "Justin Quiles ~ hotline bling spanish remix", "size": 75}
+   ]
+  },
+  {
+   "name": "Dance & EDM",
+   "children": [
+    {"name": "Porter Robinson & Madeon - Shelter (Ryahn Mills Remix)", "size": 51},
+    {"name": "LineSprite", "size": 1732},
+    {"name": "RectSprite", "size": 3623},
+    {"name": "TextSprite", "size": 10066}
+   ]
+  }
+   ]
+  }
+ 
